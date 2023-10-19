@@ -1,4 +1,4 @@
-package dev.gabsdocompiuter.awsrdsnewsletter;
+package dev.gabsdocompiuter.awsRdsNewsletter;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

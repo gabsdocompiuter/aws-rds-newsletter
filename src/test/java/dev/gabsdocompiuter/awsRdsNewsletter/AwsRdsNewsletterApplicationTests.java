@@ -1,4 +1,4 @@
-package dev.gabsdocompiuter.awsrdsnewsletter;
+package dev.gabsdocompiuter.awsRdsNewsletter;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
